@@ -1,0 +1,124 @@
+<h1> Andres padberg amavizca </h1>
+
+<!DOCTYPE html>
+
+<p>Hello world</p>
+
+(<head></head>)
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Coding Journal</title>
+  </head>
+</html>
+
+<title> The poetry of shakespear </title>
+
+<p>Shall I compare thee to a summer's day? Thou art more lovely and
+ more temperate</p>
+
+<p>line one<br />line two</p>
+
+<body>
+  <div>
+    <h1>the poetry of willam shakespeare</h1>
+    <p>Get Started</p>
+  </div>
+</body>
+
+<p>Shall I compare thee to a summer’s day? <br />Thou art more lovely and more temperate.<br />Rough winds do shake the darling buds of May,<br />And summer’s lease hath all too short a date.<br /></p></p>Sometime too hot the eye of 
+heaven shines,<br />
+And often is his gold complexion dimmed;<br />And every fair from fair sometime declines,</p><p>By chance, or nature’s changing course, untrimmed;<br />But thy eternal summer shall not fade,<br />Nor lose possession of that fair thou ow’st,<br />Nor shall death brag thou wand’rest in his shade,</p>
+<p>When in eternal lines to Time thou grow’st.<br />So long as men can breathe, or eyes can see,<br />So long lives this, and this gives life to thee.</p>
+
+
+<!-- sample text -->
+<p>The following is a list of my favorite films:</p>
+<p> bee movie</p>
+
+
+
+
+<div>
+    <p>Technology</p>
+</div>
+<div>
+  <p><span>Self-driving cars</span> are anticipated to replace up to 2 million jobs over the next two decades.</p>
+</div>
+
+<p><strong>The Nile River</strong> is the <em>longest</em> river in the world, measuring over 6,850 kilometers long (approximately 4,260 miles).</p>
+
+
+<ul>
+  <li>Limes</li>
+  <li>Tortillas</li>
+  <li>Chicken</li>
+</ul>
+
+
+<ol>
+  <li>Preheat the oven to 350 degrees.</li>
+  <li>Mix whole wheat flour, baking soda, and salt.</li>
+  <li>Cream the butter, sugar in separate bowl.</li>
+  <li>Add eggs and vanilla extract to bowl.</li>
+</ol>
+
+<div id="media">
+  <h2>Portrait</h2>
+</div>
+
+<img src="#" alt="A field of yellow sunflowers" />
+
+
+
+<a>This Is A Link To Wikipedia</a>
+
+<img src="image-location.com" />
+
+<div id="media">
+  <h2>Portrait</h2>
+</div>
+ 
+<img src="#" alt="A field of yellow sunflowers" />
+
+<a>This Is A Link To Wikipedia</a>
+
+<a href="https://www.wikipedia.org/">This Is A Link To Wikipedia</a>
+
+<a href="https://en.wikipedia.org/wiki/Opuntia" target="_blank">Prickly Pear</a>
+
+<a href="https://en.wikipedia.org/wiki/Opuntia" target="_blank"><img src="#" alt="A red prickly pear fruit"/></a>
+
+<a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">The Brown Bear</a>
+
+about.html
+contact.html
+index.html
+
+<a href="./contact.html">Contact</a>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About</title>
+</head>
+<body>
+  <nav>
+    <a href="/">William Shakespear</a>
+    <!-- web browsers respond to index.html and / the same way -->
+    <a href="./about.html">About</a>
+  </nav>
+
+<h1>About</h1>
+</body>
+</html>
+
+<p id="top"> This is the top of the page! </p>
+<h1 id="bottom">This is the bottom! </h1>
+
+<ol>
+  <li><a href="#top">Top</a></li>
+  <li><a href="#bottom">Bottom</a></li>
+</ol>
